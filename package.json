@@ -1,0 +1,22 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "modern ecommerce store built with php mvc and vuejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arindo Mudiare",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "chart.js": "^2.7.1",
+    "cross-env": "^5.2.0",
+    "foundation-sites": "^6.5.0-rc.3",
+    "jquery": "^3.2",
+    "laravel-mix": "^2.1.14",
+    "motion-ui": "^1.2.2",
+    "slick-carousel": "^1.6.0",
+    "vue": "^2.5.17"
+  }
+}
