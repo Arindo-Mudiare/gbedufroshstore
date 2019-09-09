@@ -15,15 +15,14 @@ protected  $method;
     {
         $this->match = $router->match();
 
-        $match = $router->match();
 
-        if ($this->$match) {
+        if ($this->match) {
            list($controller, $method) = explode('@', $this->match['target']);
            $this->controller = $controller;
            $this->method = $method;
 
            if (is_callable(array(new $this->controller, $this->method))){
-               call_user_func_array(array(new $this->controller, $this->method), array($match['params']));
+               call_user_func_array(array(new $this->controller, $this->method), array($this->match['params']));
            } else {
                echo "The method {$this->method} is not defined in {$this->controller}";
            }

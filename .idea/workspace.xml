@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb769d7e-f084-4cee-ac7c-a3882b9241a8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/ecommerce.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ecommerce.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/routing/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/routing/routes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routing/RouteDispatcher.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/routing/RouteDispatcher.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bootstrap/init.php" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap/init.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1567987964282</updated>
       <workItem from="1567987965750" duration="5862000" />
-      <workItem from="1568031117292" duration="2599000" />
+      <workItem from="1568031117292" duration="6242000" />
     </task>
     <servers />
   </component>
