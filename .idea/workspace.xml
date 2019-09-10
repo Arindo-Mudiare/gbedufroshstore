@@ -3,10 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="fb769d7e-f084-4cee-ac7c-a3882b9241a8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/ecommerce.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ecommerce.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/routing/RouteDispatcher.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/routing/RouteDispatcher.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bootstrap/init.php" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap/init.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +27,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -50,6 +55,7 @@
       <path value="$PROJECT_DIR$/vendor/illuminate/support" />
       <path value="$PROJECT_DIR$/vendor/philo/laravel-blade" />
       <path value="$PROJECT_DIR$/vendor/illuminate/view" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/database" />
     </include_path>
   </component>
   <component name="ProjectId" id="1QZpRar1iWiYdbibzXa3nfodxpI" />
@@ -84,7 +90,8 @@
       <option name="presentableId" value="Default" />
       <updated>1567987964282</updated>
       <workItem from="1567987965750" duration="5862000" />
-      <workItem from="1568031117292" duration="6242000" />
+      <workItem from="1568031117292" duration="7289000" />
+      <workItem from="1568109634519" duration="6655000" />
     </task>
     <servers />
   </component>
